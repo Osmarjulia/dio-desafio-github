@@ -1,0 +1,8 @@
+git add .
+adiciona o arquivo no controle de versão local.
+
+git commit -m "Comentário"
+dá um commit no arquivo.
+
+git push origin main
+envia o commit para nuvem.
